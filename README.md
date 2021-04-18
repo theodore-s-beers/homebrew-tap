@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-# Theodore-s-beers Tap
+# Theo's Homebrew tap
 
 ## How do I install these formulae?
 
@@ -10,6 +9,3 @@ Or `brew tap theodore-s-beers/tap` and then `brew install <formula>`.
 ## Documentation
 
 `brew help`, `man brew` or check [Homebrew's documentation](https://docs.brew.sh).
-=======
-# homebrew-tap
->>>>>>> origin/main
