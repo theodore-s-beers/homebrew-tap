@@ -1,8 +1,8 @@
 class GlossWord < Formula
   desc "English dictionary lookup utility"
   homepage "https://github.com/theodore-s-beers/gloss-word"
-  url "https://github.com/theodore-s-beers/gloss-word/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "6df207e7057934b27f03acb355c68b5571b907e7ddfae1f359a72bb72bbb793a"
+  url "https://github.com/theodore-s-beers/gloss-word/archive/refs/tags/v0.1.1.tar.gz"
+  sha256 "89406aca18e7e22346097ebe7d916e06c0bb03cc261d1e00209e25f9f7d70668"
   license "MIT"
 
   depends_on "rust" => :build
