@@ -18,3 +18,5 @@
 7. The `publish` workflow will take over. This will result in the original PR
    being closed, but it's ok: the workflow makes some additional changes (I
    guess by adding the `bottle do` section?) and pushes to the main branch.
+
+Reference: <https://brew.sh/2020/11/18/homebrew-tap-with-bottles-uploaded-to-github-releases/>
